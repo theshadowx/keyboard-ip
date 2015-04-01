@@ -1,5 +1,5 @@
-# keyboard IP
+# PS/2 keyboard IP
 
-This Keyboard IP is to be used with Xilinx FPGA, as it uses FIFO generated from ISE cores.
+This PS/2 Keyboard IP is to be used with Xilinx FPGA, as it uses FIFO generated from ISE cores. It is written in VHDL.
 
-It is written in VHDL.
+![Keyboard IP diagram](https://lh3.googleusercontent.com/-yGLm2nXHZ6g/VRxJzfmsSkI/AAAAAAAAAEY/7UOvr3XQ87U/w958-h720-no/keyboardIP.png)
