@@ -8,4 +8,8 @@ This PS/2 Keyboard IP is to be used with Xilinx FPGA, as it uses FIFO generated 
 
 ## Demo
 
-Here is the link to the video of the demonstration : https://www.youtube.com/watch?v=aZeutF6d0Z4
+Here is the link to the video of the demonstration : 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=aZeutF6d0Z4
+" target="_blank"><img src="http://img.youtube.com/vi/aZeutF6d0Z4/0.jpg" 
+alt="Demo PS/2 Keyboard IP in Spartan-3e 500" width="640" height="480" border="10" /></a>
