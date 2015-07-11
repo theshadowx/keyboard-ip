@@ -1,5 +1,7 @@
 # PS/2 keyboard IP
 
+[![Join the chat at https://gitter.im/theshadowx/keyboard-ip](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/theshadowx/keyboard-ip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This PS/2 Keyboard IP is to be used with Xilinx FPGA, as it uses FIFO generated from ISE cores. It is written in VHDL.
 
 ## Block diagram 
